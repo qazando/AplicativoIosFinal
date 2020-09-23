@@ -1,11 +1,10 @@
+## Aplicativo final IOS - QAZANDO
 
+www.qazando.com.br
 
-## [Build an elegant login in Swift](https://www.youtube.com/watch?v=0OqTn3MXaEI&feature=youtu.be)
+## Estrutura para XCUITESTS
 
-## Demo
-
-<img src="https://i.imgur.com/EqHGPjg.gif" width="375" height="700">
-
-### What you will learn:
-- Auto layout
-- Stackviews
+- XcUiTests
+- Page objects
+- BDD - Nativo
+- IOS
